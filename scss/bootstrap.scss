@@ -1,0 +1,44 @@
+// Font
+$font-family-sans-serif: 'Roboto', sans-serif;
+
+// Colors
+$primary: #66fcf1;
+$secondary: #10121b;
+$dark: #000;
+$light: #f1f1f1;
+$body-color: #fff;
+$headings-color: #fff;
+
+// Navbar
+$navbar-nav-link-padding-x: 0.8rem;
+$navbar-padding-y: 1rem;
+$nav-link-font-weight: 700;
+
+// Spacing
+$spacer: 1rem !default;
+$spacers: (
+  0: 0,
+  1: $spacer * 0.25,
+  2: $spacer * 0.5,
+  3: $spacer,
+  4: $spacer * 1.5,
+  5: $spacer * 3,
+  6: $spacer * 6,
+  7: $spacer * 8,
+  8: $spacer * 12,
+  9: $spacer * 14,
+) !default;
+
+$headings-margin-bottom: $spacer * 1 !default;
+$line-height-base: 1.7;
+$headings-font-weight: bold;
+
+// Inputs
+$input-radius: 30px;
+$input-btn-padding-y: 0.7rem;
+$input-btn-padding-x: 1rem;
+$input-border-radius: $input-radius;
+$input-border-radius-sm: $input-radius;
+$input-border-radius-lg: $input-radius;
+
+@import '../node_modules/bootstrap/scss/bootstrap.scss';

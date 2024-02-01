@@ -1,0 +1,652 @@
+@media (min-width: 1400px) {
+}
+@media (max-width: 1399px) {
+  // Hero
+  .hero--section {
+    padding-top: 3rem !important;
+  }
+  .main-hero-heading {
+    font-size: 2.7rem !important;
+  }
+
+  .hero-text {
+    font-size: 15px;
+  }
+  .hero-sec-img {
+    margin-left: 1rem !important;
+    padding-top: 8rem !important;
+    // padding-bottom: 15rem !important;
+  }
+  .hero--section {
+    padding-bottom: 0rem;
+  }
+  .animated-rb {
+    right: -20%;
+  }
+  // hero //
+
+  // How
+  .how-card {
+    padding: 0 !important;
+  }
+  .how--text {
+    font-size: 14px;
+  }
+
+  .how-work--section {
+    padding-top: 6rem !important;
+  }
+
+  .steps--row {
+    padding-bottom: 0rem !important;
+  }
+  .animated-how-2 {
+    right: 0%;
+  }
+  // how //
+
+  // Detail-1
+  .details--section {
+    padding-top: 6rem !important;
+    padding-bottom: 6rem !important;
+  }
+  .details-heading {
+    font-size: 2.4rem !important;
+  }
+  .detail--text {
+    font-size: 14px;
+  }
+  .border-detail-img {
+    width: 450px;
+  }
+  .details--img {
+    margin-left: 40px;
+  }
+  .bg-for-details-1 {
+    background-size: cover;
+  }
+  // detail-1 //
+
+  // Slider
+  .benefit-description-col {
+    padding-left: 2em !important;
+  }
+  .testimonial-slider {
+    padding-top: 8rem !important;
+    padding-bottom: 8rem !important;
+  }
+
+  // slider //
+
+  //Details-2
+  .details-2--section {
+    padding-top: 3rem !important;
+    padding-bottom: 6rem !important;
+  }
+  .details--heading {
+    font-size: 2.8rem !important;
+  }
+
+  .details--text {
+    font-size: 15px !important;
+  }
+  // details-2 //
+
+  // Stats
+  .stats-heading {
+    font-size: 3rem !important;
+  }
+  .stats--section {
+    padding: 4rem 0 !important;
+  }
+
+  // Faq
+  .faq--section {
+    padding-top: 5rem !important;
+    padding-bottom: 6rem !important;
+  }
+  .faq-heading {
+    font-size: 2.8rem !important;
+  }
+  .faq-text {
+    font-size: 15px !important;
+  }
+}
+
+@media (max-width: 1199px) {
+  .border-main-img {
+    height: 430px;
+    width: 220px;
+  }
+  .hero--section {
+    padding-bottom: 0rem;
+  }
+
+  .hero--img {
+    height: 420px;
+    width: 220px;
+  }
+  .main-hero-heading {
+    font-size: 2.4rem !important;
+  }
+
+  .hero-text {
+    font-size: 12px;
+  }
+
+  .how--text {
+    font-size: 10px;
+  }
+
+  .how-card {
+    padding: 0 !important;
+  }
+  .how-work--section {
+    padding-top: 6rem !important;
+    padding-bottom: 10rem !important;
+  }
+
+  .details-heading {
+    font-size: 2rem !important;
+  }
+  .details--section {
+    padding-top: 2rem !important;
+    padding-bottom: 4rem !important;
+  }
+  .detail--text {
+    font-size: 12px;
+  }
+  .details--heading {
+    font-size: 2rem !important;
+  }
+
+  .details--text {
+    font-size: 12px !important;
+  }
+  .border-detail-img {
+    width: 380px;
+    height: 490px;
+  }
+
+  .details--img {
+    margin-left: 30px;
+    width: 400px;
+    height: 500px;
+  }
+
+  .img--details-back {
+    width: 330px;
+    height: 350px;
+  }
+  .img--details-top {
+    width: 330px;
+    height: 350px;
+  }
+  .stats-heading {
+    font-size: 2.5rem !important;
+  }
+  .stats--section {
+    padding: 2rem 0 !important;
+  }
+  .faq-heading {
+    font-size: 2rem !important;
+  }
+  .faq-text {
+    font-size: 12px !important;
+  }
+  .btn--rest {
+    padding: 0.5rem 2rem !important;
+  }
+  .sec-img-main-col {
+    padding-right: 0 !important;
+  }
+  .footer-text {
+    font-size: 12px;
+  }
+  .card-text {
+    font-size: 12px;
+  }
+  .card-title {
+    font-size: 16px;
+  }
+  .animated-how-2 {
+    bottom: 5%;
+    width: 300px;
+    height: 260px;
+  }
+}
+
+@media (max-width: 991px) {
+  .nav-logo-img {
+    height: 80px !important;
+  }
+  .footer-logo-img {
+    height: 90px !important;
+  }
+  .bg-for-hero {
+    background-size: cover;
+  }
+
+  .images--row {
+    padding: 0 !important;
+  }
+
+  .hero-sec-img {
+    padding: 0 !important;
+  }
+
+  .border-main-img {
+    margin: 0 !important;
+  }
+
+  .hero-image-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+  }
+  .offset-md-2.how-col-text {
+    margin-left: 0 !important;
+  }
+  .bg-for-how {
+    background-size: contain;
+  }
+  .how--text {
+    font-size: 14px;
+  }
+  .how--card-icon {
+    flex-direction: column;
+  }
+  .steps--row {
+    padding-bottom: 4rem !important;
+  }
+  .how-work--section {
+    padding-bottom: 4rem !important;
+  }
+
+  .bg-for-details-1 {
+    background-size: contain;
+  }
+
+  .border-detail-img {
+    width: 350px;
+    margin-bottom: 4rem !important;
+    height: 500px !important;
+  }
+  .details--img {
+    width: 400px !important;
+    height: 515px !important;
+    margin-left: 30px !important;
+  }
+
+  .details-heading {
+    font-size: 2.4rem !important;
+  }
+  .detail--text {
+    font-size: 14px;
+  }
+
+  .bg-for-benefit {
+    background: url(../images/benefits-backgrounds/Backgorund-benefit.png)
+      no-repeat;
+    background-size: cover;
+  }
+  .testimonial-title {
+    text-align: center;
+  }
+  .bg-for-details-2 {
+    background: url(../images/Details-background/Background-business-grow.png)
+      no-repeat;
+    background-size: contain;
+  }
+  .details--heading {
+    font-size: 2.4rem !important;
+  }
+  .details--text {
+    font-size: 14px !important;
+  }
+  .details--section {
+    padding-bottom: 3rem !important;
+  }
+  .details-2--section {
+    padding-top: 4rem !important;
+    padding-bottom: 3rem !important;
+  }
+  .details--text-container {
+    margin-bottom: 7rem !important;
+  }
+  .img--details-back {
+    width: 260px;
+    height: 330px;
+  }
+  .img--details-top {
+    width: 260px;
+    height: 330px;
+    right: 20%;
+  }
+  .stats {
+    justify-content: space-between;
+  }
+  .stats-inner-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 1.5rem;
+  }
+  .stats--section {
+    background: url(../images/stats-bg.png) center center no-repeat;
+    background-size: cover;
+  }
+  .bg-for-faq {
+    background-color: #10121b !important;
+    background: url(../images/FAQ/Background-faq.png) center center no-repeat;
+    background-size: contain;
+  }
+  .description-container-faq {
+    text-align: center;
+  }
+  .faq--section {
+    padding-bottom: 2rem !important;
+  }
+  .faq-img {
+    width: 400px;
+    height: 300px;
+  }
+  .about-us-footer {
+    justify-content: start !important;
+  }
+  .footer-text {
+    font-size: 16px;
+  }
+  .navbar-button {
+    display: none;
+  }
+  .hero--section {
+    padding-top: 3rem !important;
+    padding-bottom: 4rem !important;
+  }
+  .animated-rb {
+    bottom: 11%;
+    right: -10%;
+  }
+  .animated-how-2 {
+    bottom: 2%;
+    right: 0%;
+    width: 240px;
+    height: 200px;
+  }
+}
+
+@media (max-width: 768px) {
+  .navbar-button {
+    display: none;
+  }
+  .how--text {
+    font-size: 12px;
+  }
+  .details-heading {
+    font-size: 2rem !important;
+  }
+  .detail--text {
+    font-size: 12px;
+  }
+  .details--heading {
+    font-size: 2.2rem !important;
+  }
+  .details--text {
+    font-size: 12px !important;
+  }
+  .details--text-container {
+    margin-bottom: 6rem !important;
+  }
+  .border-detail-img {
+    width: 300px;
+    margin-bottom: 3rem !important;
+    height: 420px !important;
+  }
+  .details--img {
+    width: 300px !important;
+    height: 425px !important;
+    margin-left: 25px !important;
+  }
+  .footer {
+    padding-top: 3rem !important;
+  }
+  .accordion-body {
+    font-size: 12px;
+    padding: 8px;
+  }
+  .accordion-heading {
+    font-size: 14px;
+  }
+  .details--text-container {
+    margin-bottom: 5rem !important;
+  }
+  .img--details-top {
+    right: 15%;
+  }
+  .testimonial-slider {
+    padding-top: 4rem !important;
+    padding-bottom: 5rem !important;
+  }
+  .card-title {
+    font-size: 14px;
+  }
+  .card-text {
+    font-size: 12px;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 575px) {
+  .navbar-button {
+    display: none;
+  }
+  .main-hero-heading {
+    font-size: 1.5rem !important;
+  }
+  .hero-text {
+    font-size: 10px;
+  }
+  .btn--rest {
+    padding: 0.5rem 0.5rem !important;
+    font-size: 12px !important;
+  }
+  .accordion-item {
+    margin-bottom: 20px;
+  }
+  .how-heading {
+    font-size: 28px !important;
+  }
+  .how-text {
+    font-size: 11px !important;
+  }
+  .step-construction {
+    padding: 1rem !important;
+  }
+  .how--text {
+    font-size: 9px;
+  }
+  .arrow-icon {
+    display: none;
+  }
+  .how-card {
+    padding: 10px !important;
+  }
+  .bg-for-how {
+    background-size: contain;
+  }
+  .how-work--section {
+    padding-top: 0rem !important;
+  }
+  .how--work-row {
+    padding-top: 4rem !important;
+  }
+  .steps--row {
+    padding-bottom: 4rem !important;
+  }
+  .border-detail-img {
+    width: 200px;
+    margin-bottom: 3rem !important;
+    height: 250px !important;
+  }
+  .details--img {
+    width: 200px !important;
+    height: 255px !important;
+    margin-left: 15px !important;
+  }
+  .details-heading {
+    font-size: 1.5rem !important;
+  }
+  .bg-for-details-1 {
+    background-position: center;
+  }
+  .detail--text {
+    font-size: 9px;
+  }
+  .details--section {
+    padding-bottom: 2rem !important;
+  }
+  .testimonial-slider {
+    padding-top: 2rem !important;
+    padding-bottom: 4rem !important;
+  }
+  .benefit-text {
+    font-size: 12px;
+  }
+  .card-title {
+    font-size: 10px;
+  }
+  .card-text {
+    font-size: 8px;
+  }
+  .carousel-inner {
+    width: 100%;
+  }
+
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    height: 1rem;
+  }
+  .carousel-control-prev,
+  .carousel-control-next {
+    width: 2em;
+    height: 2em;
+  }
+  .details--heading {
+    font-size: 1.5rem !important;
+  }
+  .details--text {
+    font-size: 8px !important;
+  }
+  .img--details-top {
+    width: 140px;
+    height: 230px;
+    top: -20px;
+    right: 15%;
+  }
+  .img--details-back {
+    width: 140px;
+    height: 230px;
+  }
+  .faq-heading {
+    font-size: 1.5rem !important;
+  }
+  .faq-img {
+    width: 230px;
+    height: 175px;
+  }
+  .accordion-heading {
+    font-size: 9px;
+  }
+  .accordion-body {
+    font-size: 8px;
+    padding: 6px;
+  }
+  .accordion-button {
+    padding: 8px !important;
+  }
+  .footer {
+    padding-top: 2rem !important;
+  }
+  .bg-for-hero {
+    background-size: contain;
+  }
+
+  .hero--section {
+    padding-top: 6rem !important;
+    padding-bottom: 4rem !important;
+  }
+
+  .border-main-img {
+    height: 220px;
+    width: 120px;
+  }
+
+  .carousel-item {
+    width: 70%;
+    margin-left: 15% !important;
+  }
+  .hero--img {
+    height: 220px;
+    width: 130px;
+    margin-left: -15px;
+    margin-top: 5px;
+  }
+  .stats {
+    flex-direction: column;
+  }
+  .stat {
+    border-bottom: 1px solid;
+    border-left: 0 !important;
+  }
+  .stat-last {
+    border-bottom: 0 !important;
+  }
+  .stats--section {
+    background: url(../images/stats-bg.png) no-repeat;
+    background-size: cover;
+  }
+  .footer-text {
+    font-size: 12px;
+  }
+  .copyright-container {
+    flex-direction: column;
+  }
+  .copyright-text {
+    margin-bottom: 12px;
+  }
+  .border-detail-img {
+    margin-bottom: 1rem !important;
+  }
+  .nav-logo-img {
+    height: 60px !important;
+  }
+  .footer-logo-img {
+    height: 70px !important;
+  }
+  .animated-circle {
+    top: 11%;
+    left: -5%;
+    width: 240px;
+    height: 100px;
+  }
+  .animated-rb {
+    bottom: 40%;
+    right: 4%;
+    width: 240px;
+    height: 100px;
+  }
+  .animated-how {
+    top: 10%;
+    left: -5%;
+    width: 240px;
+    height: 100px;
+  }
+  .animated-how-2 {
+    bottom: 12%;
+    right: 0%;
+    width: 240px;
+    height: 100px;
+  }
+}
